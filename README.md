@@ -26,7 +26,7 @@ Based on these findings, we recommend implementing the new banner on the GloBox 
 
 It is essential to continue monitoring the key performance metrics to ensure the change continues to be beneficial and to make data-informed adjustments as needed.
 
-![Performance Metrics Monitoring](/path/to/performance_metrics_monitoring_image.png)
+![Novelty Effects](https://github.com/moseskolleh/masterschool_project/assets/33796303/8ba2e940-0fc2-4fc2-8ae0-23f8d474b485)
 
 ## Project Structure
 
