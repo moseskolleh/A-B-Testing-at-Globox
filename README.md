@@ -32,16 +32,18 @@ It is essential to continue monitoring the key performance metrics to ensure the
 
 The project is structured into three stages, reflecting the sprints in our analysis process:
 
-1. **Data Extraction**: We used SQL to extract and aggregate user data, then visualized the results in Tableau.
+1. **Data Extraction**: SQL was used to extract and aggregate user data, then visualized the results in Tableau.
 2. **Data Analysis**: The A/B test results were analyzed using statistical methods in both spreadsheets and Python.
 3. **Report Writing**: A comprehensive written report of the A/B test results was created, detailing the analysis and the data-driven recommendations.
+4.  **Presentation**: A presentation of the A/B test results was done together with a video using loom.
+
 
 ## Contents
 
 - [SQL Queries](./sql/queries.sql): Scripts used for data extraction.
 - [Python Scripts](./python/analysis.py): Python code for statistical analysis.
-- [Tableau Visualizations](./tableau/dashboard.twbx): Tableau workbook with data visualizations.
-- [Final Report](./report/analysis_report.pdf): The full report detailing the A/B test analysis, findings, and recommendations.
+- [Tableau Visualizations](https://public.tableau.com/authoring/Data_Sprint_MasterSchool_Project/Conversionratebytestgroup#1): Tableau workbook with data visualizations.
+- [Final Report]([./report/analysis_report.pdf](https://docs.google.com/document/d/1XYlh5UYVe0F6Gmbm7Zn7oRxTqHcwJZggQ9ctzSf7lfo/edit?usp=sharing)): The full report detailing the A/B test analysis, findings, and recommendations.
 
 ## Usage
 
