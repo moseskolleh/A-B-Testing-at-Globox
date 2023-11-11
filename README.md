@@ -13,7 +13,7 @@ Our analysis revealed that the test group (Group B), which was exposed to the ne
 
 While there was no significant change in the average amount spent per transaction, the increased conversion rate suggests a potential for higher overall revenue due to more transactions occurring.
 
-![Average Amount Spent Comparison](Average amount spent by test groups.png)
+![Average amount spent by test groups](https://github.com/moseskolleh/masterschool_project/assets/33796303/fcfb8ab9-b956-4880-9bf3-1e8363504a1a)
 
 ## Recommendations
 
