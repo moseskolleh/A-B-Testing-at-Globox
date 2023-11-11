@@ -5,6 +5,9 @@
 
 Welcome to the repository for the GloBox A/B testing project. The objective of this project is to analyze the results of an A/B test conducted on GloBox's mobile website and to provide data-driven recommendations.
 
+![Globox](https://github.com/moseskolleh/masterschool_project/assets/33796303/074d1a00-73ba-413d-9bcd-67d02575211e)
+
+
 ## Summary of Findings
 
 Our analysis revealed that the test group (Group B), which was exposed to the new banner, showed a statistically significant increase in conversion rates compared to the control group (Group A). This suggests that the banner positively influenced customer behavior, leading to more frequent purchases.
