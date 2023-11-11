@@ -10,6 +10,7 @@ Welcome to the repository for the GloBox A/B testing project. The objective of t
 Our analysis revealed that the test group (Group B), which was exposed to the new banner, showed a statistically significant increase in conversion rates compared to the control group (Group A). This suggests that the banner positively influenced customer behavior, leading to more frequent purchases.
 
 ![Conversion Rate Increase](/path/to/conversion_rate_increase_image.png)
+![Conversion Rate Over Time](https://github.com/moseskolleh/masterschool_project/assets/33796303/763f719a-74e3-4037-80d1-a1afe9ee4264)
 
 While there was no significant change in the average amount spent per transaction, the increased conversion rate suggests a potential for higher overall revenue due to more transactions occurring.
 
