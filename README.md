@@ -10,7 +10,7 @@ Welcome to the repository for the GloBox A/B testing project. The objective of t
 
 ## Summary of Findings
 
-Our analysis revealed that the test group (Group B), which was exposed to the new banner, showed a statistically significant increase in conversion rates compared to the control group (Group A). This suggests that the banner positively influenced customer behavior, leading to more frequent purchases.
+The analysis revealed that the test group (Group B), which was exposed to the new banner, showed a statistically significant increase in conversion rates compared to the control group (Group A). This suggests that the banner positively influenced customer behavior, leading to more frequent purchases.
 
 ![Conversion rate by test group](https://github.com/moseskolleh/masterschool_project/assets/33796303/5e31d09f-39f9-40c2-bcef-ce4f836e4f51)
 
@@ -20,7 +20,7 @@ While there was no significant change in the average amount spent per transactio
 
 ## Recommendations
 
-Based on these findings, we recommend implementing the new banner on the GloBox mobile website. The increase in conversion rate is promising for potential revenue growth, and there were no indications of a novelty effect that could diminish this impact over time.
+Based on these findings, the recommendation is to implement the new banner on the GloBox mobile website. The increase in conversion rate is promising for potential revenue growth, and there were no indications of a novelty effect that could diminish this impact over time.
 
 ![Globox](https://github.com/moseskolleh/masterschool_project/assets/33796303/074d1a00-73ba-413d-9bcd-67d02575211e)
 
@@ -30,7 +30,7 @@ It is essential to continue monitoring the key performance metrics to ensure the
 
 ## Project Structure
 
-The project is structured into three stages, reflecting the sprints in our analysis process:
+The project is structured into three stages, reflecting the sprints in the analysis process:
 
 1. **Data Extraction**: SQL was used to extract and aggregate user data, then visualized the results in Tableau.
 2. **Data Analysis**: The A/B test results were analyzed using statistical methods in both spreadsheets and Python.
@@ -43,7 +43,7 @@ The project is structured into three stages, reflecting the sprints in our analy
 - [SQL Queries](./sql/queries.sql): Scripts used for data extraction.
 - [Python Scripts](./python/analysis.py): Python code for statistical analysis.
 - [Tableau Visualizations](https://public.tableau.com/authoring/Data_Sprint_MasterSchool_Project/Conversionratebytestgroup#1): Tableau workbook with data visualizations.
-- [Final Report]([./report/analysis_report.pdf](https://docs.google.com/document/d/1XYlh5UYVe0F6Gmbm7Zn7oRxTqHcwJZggQ9ctzSf7lfo/edit?usp=sharing)): The full report detailing the A/B test analysis, findings, and recommendations.
+- [Final Report]([./report/analysis_report.pdf](https://docs.google.com/document/d/1XYlh5UYVe0F6Gmbm7Zn7oRxTqHcwJZggQ9ctzSf7lfo/edit?usp=sharing): The full report detailing the A/B test analysis, findings, and recommendations.
 
 ## Usage
 
