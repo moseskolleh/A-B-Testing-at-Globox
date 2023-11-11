@@ -22,7 +22,7 @@ While there was no significant change in the average amount spent per transactio
 
 Based on these findings, we recommend implementing the new banner on the GloBox mobile website. The increase in conversion rate is promising for potential revenue growth, and there were no indications of a novelty effect that could diminish this impact over time.
 
-![Banner Implementation Recommendation](/path/to/banner_implementation_recommendation_image.png)
+![Globox](https://github.com/moseskolleh/masterschool_project/assets/33796303/074d1a00-73ba-413d-9bcd-67d02575211e)
 
 It is essential to continue monitoring the key performance metrics to ensure the change continues to be beneficial and to make data-informed adjustments as needed.
 
