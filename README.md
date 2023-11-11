@@ -54,7 +54,7 @@ To engage with the analysis:
 2. Review the SQL queries to understand the data extraction process.
 3. Execute the Python scripts for a detailed analysis.
 4. Open the Tableau dashboard to interact with the visualizations.
-5. Read the final report to gain insights into the A/B test results and our strategic recommendations.
+5. Read the final report to gain insights into the A/B test results and the recommendations.
 
 ## Background
 
