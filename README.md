@@ -5,7 +5,7 @@
 
 Welcome to the repository for the GloBox A/B testing project. The objective of this project is to analyze the results of an A/B test conducted on GloBox's mobile website and to provide data-driven recommendations.
 
-![Globox](https://github.com/moseskolleh/masterschool_project/assets/33796303/074d1a00-73ba-413d-9bcd-67d02575211e)
+![w=1920,quality=80](https://github.com/moseskolleh/masterschool_project/assets/33796303/882475ee-6575-4bd3-84aa-bd66cd8628b2)
 
 
 ## Summary of Findings
