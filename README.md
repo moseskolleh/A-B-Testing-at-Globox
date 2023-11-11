@@ -35,7 +35,7 @@ The project is structured into three stages, reflecting the sprints in our analy
 1. **Data Extraction**: SQL was used to extract and aggregate user data, then visualized the results in Tableau.
 2. **Data Analysis**: The A/B test results were analyzed using statistical methods in both spreadsheets and Python.
 3. **Report Writing**: A comprehensive written report of the A/B test results was created, detailing the analysis and the data-driven recommendations.
-4.  **Presentation**: A presentation of the A/B test results was done together with a video using loom.
+4. **Presentation**: A presentation of the A/B test results was done together with a video using loom.
 
 
 ## Contents
