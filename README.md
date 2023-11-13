@@ -40,7 +40,7 @@ The project is structured into three stages, reflecting the sprints in the analy
 
 ## Contents
 
-- [SQL Queries](Sprint project.sql): Scripts used for data extraction.
+- [Sprint project.sql.zip](https://github.com/moseskolleh/masterschool_project/files/13339653/Sprint.project.sql.zip) : Scripts used for data extraction.
 - [Python Scripts](./python/analysis.py): Python code for statistical analysis.
 - [Spreadsheets](./python/analysis.py): Spreadsheets for statistical analysis.
 - [Tableau Visualisations](https://public.tableau.com/authoring/Data_Sprint_MasterSchool_Project/Conversionratebytestgroup#1): Tableau workbook with data visualizations.
