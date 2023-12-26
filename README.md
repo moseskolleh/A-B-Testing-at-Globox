@@ -3,28 +3,26 @@
 
 ## Overview
 
-Welcome to the repository for the GloBox A/B testing project. The objective of this project is to analyze the results of an A/B test conducted on GloBox's mobile website and to provide data-driven recommendations.
+Welcome to the repository for the GloBox A/B testing project. The objective of this project is to analyze the results of the A/B test conducted on GloBox's mobile website and to provide data-driven recommendations.
 
 ![w=1920,quality=80](https://github.com/moseskolleh/masterschool_project/assets/33796303/882475ee-6575-4bd3-84aa-bd66cd8628b2)
 
 
 ## Summary of Findings
 
-The analysis revealed that the treatment group (Group B), which was exposed to the new banner, showed a statistically significant increase in conversion rates compared to the control group (Group A). This suggests that the banner positively influenced customer behavior, leading to more frequent purchases.
+The analysis showed that Group B, exposed to the new banner, had significantly higher conversion rates than Group A, the control group. This implies the banner positively influenced customer engagement and behavior.
 
 ![Conversion rate by test group](https://github.com/moseskolleh/masterschool_project/assets/33796303/5e31d09f-39f9-40c2-bcef-ce4f836e4f51)
 
-While there was no significant change in the average amount spent per transaction, the increased conversion rate suggests a potential for higher overall revenue due to more transactions occurring.
+However, the increased conversion rate did not translate into a significant change in average spending per transaction, indicating that while engagement may be higher, it's not leading to increased revenue.
 
 ![Average amount spent by test groups (1)](https://github.com/moseskolleh/masterschool_project/assets/33796303/ad2b383b-bec4-4b09-81a8-b5d9e3aa426f)
 
 ## Recommendations
 
-Based on these findings, the recommendation is to implement the new banner on the GloBox mobile website. The increase in conversion rate is promising for potential revenue growth, and there were no indications of a novelty effect that could diminish this impact over time.
+Hold off on launching the banner experiment. Despite a significant increase in Group B's conversion rate, the lack of impact on average spending and uncertain long-term effects suggest revisiting and potentially redesigning the banner for better overall effectiveness.
 
 ![Globox](https://github.com/moseskolleh/masterschool_project/assets/33796303/074d1a00-73ba-413d-9bcd-67d02575211e)
-
-It is essential to continue monitoring the key performance metrics to ensure the change continues to be beneficial and to make data-informed adjustments as needed.
 
 ![Novelty Effects](https://github.com/moseskolleh/masterschool_project/assets/33796303/8ba2e940-0fc2-4fc2-8ae0-23f8d474b485)
 
@@ -43,8 +41,8 @@ The project is structured into three stages, reflecting the sprints in the analy
 - [Sprint project.sql.zip](https://github.com/moseskolleh/masterschool_project/files/13339653/Sprint.project.sql.zip) : Scripts used for data extraction.
 - [Python Scripts](./python/analysis.py): Python code for statistical analysis.
 - [Spreadsheets](./python/analysis.py): Spreadsheets for statistical analysis.
-- [Tableau Visualisations](https://public.tableau.com/authoring/Data_Sprint_MasterSchool_Project/Conversionratebytestgroup#1): Tableau workbook with data visualizations.
-- [Final Report](https://docs.google.com/document/d/1XYlh5UYVe0F6Gmbm7Zn7oRxTqHcwJZggQ9ctzSf7lfo/edit?usp=sharing): The full report detailing the A/B test analysis, findings, and recommendations.
+- [Tableau Visualisations](https://public.tableau.com/views/Data_Sprint_MasterSchool_Project/CountryandRegionAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link): Tableau workbook with data visualizations.
+- [Final Report](https://docs.google.com/document/d/1ubTPxZxTBaUjCQtpVRi_TB-ebw1unRR9MVspqz5Btyo/edit?usp=sharing): The full report detailing the A/B test analysis, findings, and recommendations.
 
 ## Usage
 
