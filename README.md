@@ -60,7 +60,7 @@ GloBox is expanding its product offerings in the food and drink category and has
 
 ## Contributing
 
-We welcome contributions. To contribute:
+Contributions are welcome. To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature (`git checkout -b feature-branch`).
