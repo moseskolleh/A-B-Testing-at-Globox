@@ -7,7 +7,6 @@ Welcome to the repository for the GloBox A/B testing project. The objective of t
 
 ![w=1920,quality=80](https://github.com/moseskolleh/masterschool_project/assets/33796303/882475ee-6575-4bd3-84aa-bd66cd8628b2)
 
-
 ## Summary of Findings
 
 The analysis showed that Group B, exposed to the new banner, had significantly higher conversion rates than Group A, the control group. This implies the banner positively influenced customer engagement and behavior.
